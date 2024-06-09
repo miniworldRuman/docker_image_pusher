@@ -1,2 +1,2 @@
-scratch
+ubuntu
 qemux/qemu-docker:5.11
