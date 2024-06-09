@@ -1,2 +1,1 @@
-ubuntu
-qemux/qemu-docker:5.11
+quay.io/jupyter/datascience-notebook:2024-05-27
