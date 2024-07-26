@@ -1,1 +1,1 @@
-quay.io/jupyter/datascience-notebook:2024-05-27
+redroid/redroid:8.1.0-latest
