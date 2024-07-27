@@ -1,1 +1,1 @@
-emptysuns/scrcpy-web
+scavin/ws-scrcpy
