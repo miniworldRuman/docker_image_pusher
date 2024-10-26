@@ -1,1 +1,1 @@
-scavin/ws-scrcpy
+ubuntu:24.04
